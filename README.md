@@ -1,0 +1,50 @@
+
+## Drink App (Hemuppgift)
+
+En sista inlämning blir hemuppgiften där vi kommer bedöma era kunskaper inom det vi har lärt oss i kursen. För att klara kursen måste man klara hemuppgiften. (Max betyg G). 
+
+Inlämningen förväntas göras på de sättet vi har lärt oss i kursen. 
+
+- Komponenter
+- Bra uppdelningar i mappstrukturer
+- Hooks (useState, useEffect etc)
+- React Router
+- Class Components (om de behövs)
+- Stateless/functional components
+- Props
+
+Uppgiften går ut på att bygga en webbapplikation som hjälper till användaren att söka på olika cocktails. Användaren ska enkelt kunna söka på vad den vill och resultat ska visas upp bereonde på inmatningen. Finns inget resultat så ska detta också visas upp via en text.
+
+Utöver att jobba med de principer vi har lärt oss är det också viktigt att inlämningen sker via Github. Ni ska jobba aktivt med Github och göra commits så vi kan sedan kolla hur ni har jobbat. **OBS: Inga commits efter inlämnigstiden är över!**
+
+
+# Steg 1 
+Skapa ett helt nytt projekt med något av följande sätt.
+
+### Yarn
+
+Öppna upp terminalen och kör  `yarn create react-app namnet-på-din-app`
+
+### [](https://github.com/molndal-react/week-3-exercise#npm)NPM
+
+Öppna upp terminalen och kör  `npm init react-app namnet-på-din-app`
+
+Koppla projektet mot ett nytt Github projekt. 
+
+# Steg 2
+Installera React Router samt börja bygga upp din mappstruktur på de sättet du vill ha det. (Components, data, styling osv..)
+
+# Steg 3 
+Ladda in JSON filen som finns på Github och använd den som din datakälla. I JSON filen finns flera olika sorters drinkar och den datan du behöver för att visualisera ut den till användaren.
+
+# Steg 4
+
+Börja bygga på appen. Applikationen ska ha två sidor
+
+ 1. Home
+ 2. Explore
+
+Home blir själva sidan användaren kommer först in på. (Se bild)
+Explorer är sidan där användaren söker på drinkar (Se bild) 
+
+
