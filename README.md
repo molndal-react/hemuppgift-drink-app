@@ -18,6 +18,12 @@ Uppgiften går ut på att bygga en webbapplikation som hjälper till användaren
 Utöver att jobba med de principer vi har lärt oss är det också viktigt att inlämningen sker via Github. Ni ska jobba aktivt med Github och göra commits så vi kan sedan kolla hur ni har jobbat. **OBS: Inga commits efter inlämnigstiden är över!**
 
 
+Tips: 
+- Gå vidare om ni fastna på något
+- Dela upp så mycket det går
+- Jobba aktivt med commits i Github
+- Övertänk inte
+
 # Steg 1 
 Skapa ett helt nytt projekt med något av följande sätt.
 
