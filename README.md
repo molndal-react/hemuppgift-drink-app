@@ -44,7 +44,13 @@ Börja bygga på appen. Applikationen ska ha två sidor
  1. Home
  2. Explore
 
-Home blir själva sidan användaren kommer först in på. (Se bild)
-Explorer är sidan där användaren söker på drinkar (Se bild) 
+Home blir själva sidan användaren kommer först in på. ([Se bild](https://ibb.co/H4Z1MMf))
+Explorer är sidan där användaren söker på drinkar ([Se bild](https://ibb.co/nQZcS5m)) 
+
+Användaren ska kunna söka på vad som helst och det ska inte finnas några begräsningar på minst antal tecken i sökordet. Exempel på en sökning ([Se bild](https://ibb.co/f2c08Pb)) där användaren sökte på ordet *"te"* och fick fram alla drinkar som innehöll den söktexten.
+
+Finns inte drinken så ska användaren få någon text som indikerar att inget kunde hitta i databasen med som innehöll den angvina texten.
+
+Användaren ska sedan kunna trycka på dessa drinkar och då ska man navigeras till en ny undersida där man får lite mer information om drinken. ([Se bild](https://ibb.co/4wb2HqY))
 
 
