@@ -59,4 +59,18 @@ Finns inte drinken så ska användaren få någon text som indikerar att inget k
 
 Användaren ska sedan kunna trycka på dessa drinkar och då ska man navigeras till en ny undersida där man får lite mer information om drinken. ([Se bild](https://ibb.co/4wb2HqY))
 
+# Steg 5
+
+När användaren är inne på en drink T.ex "Americano" så ska den personen se en bild och instructions hur man gör drinken. Användaren ska också se följande funktionaliteter
+
+1) En vänster pil samt en höger pil. Användaren ska kunna trycka på pilarna. Om pil vänster är tryckt då ska föregående drink visas upp och ifall pil höger så ska nästkommande drink visas upp. 
+
+Ifall det inte finns förgående drink så ska pil vänster vara oklickbar (disable) och samma sak för höger. 
+
+2) Användaren ska kunna lägga anonyma kommentarerer på drinkarna. Bygg ett enkelt kommenterasfält där användaren kan skriva sitt namn, rubrik och själva texten. Användaren ska sedan skicka på "Submit" knappen och så ska inlägget publiceras under drinken. 
+
+När kommentaren är upplagd så ska man först se namnet, sedan tidpunkten, under namnet och tidpunkten ska rubriken komma sedan under den kommer själva texten. Likt Facebook, Instagram osv... 
+
+OBS: Ni behöver ej koppla något mot databasen och detta ska endast funka lokalt. Ni behöver inte hellre tänka på att ha advancerad CSS i er kod. Gör den endast användarvänlig.
+
 
